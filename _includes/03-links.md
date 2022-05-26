@@ -1,1 +1,1 @@
-Github: ![Altan-X](https://github.com/Altan-X)
+Github: [Altan-X](https://github.com/Altan-X)
